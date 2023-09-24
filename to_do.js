@@ -7,7 +7,7 @@ let tasks = [
   { value: "See the Doctor", isComplete: true },
 ];
 
-// get data from localStorage
+// Get data from localStorage
 if (localStorage.getItem("taskData")) {
   tasks = JSON.parse(localStorage.getItem("taskData"));
 }
