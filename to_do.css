@@ -61,6 +61,7 @@ body {
   height: 100vh;
   transition: 0.15s ease-out;
   background-color: var(--body-bg);
+  background:url("./images/texture_background_2.jpg")
   color: var(--body-color);
 }
 
