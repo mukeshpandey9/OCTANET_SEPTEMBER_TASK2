@@ -10,6 +10,6 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="./Images/IMG_20230910_231703.jpg" alt="project-screenshot" width="100%" height="85%">
+<img src="./todo1.png" alt="project-screenshot">
 
-<img src="./Images/IMG_20230910_231640.jpg" alt="project-screenshot" width="100%" height="85%">
+<img src="./Todo2.png" alt="project-screenshot">
