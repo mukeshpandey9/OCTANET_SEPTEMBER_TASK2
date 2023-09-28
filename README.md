@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://movixzilla.netlify.app/](https://todolistmp.netlify.app/)
+[https://todolistmp.netlify.app/](https://todolistmp.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
