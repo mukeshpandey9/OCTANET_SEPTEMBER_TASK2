@@ -14,7 +14,7 @@ function toggleTheme() {
   }
 }
 
-body.onload = function () {
+ body.onload = function () {
   const theme = localStorage.getItem("website_theme");
   const checkbox = document.querySelector(".dark-mode-slider #checkbox");
 
